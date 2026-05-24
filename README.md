@@ -18,7 +18,7 @@ public class AlyEldeen {
     String name     = "Aly Eldeen Eldowaik";
     String degree   = "B.Sc. Computer Science @ AAST";
     String gpa      = "3.3 / 4.0";
-    String location = "Cairo, Egypt 🇪🇬";
+    String location = "Giza, Egypt 🇪🇬";
     String status   = "Seeking internship in Software Development or Database Systems";
 
     String[] languages = { "Java", "Python", "C", "PHP", "SQL", "HTML/CSS/JS" };
